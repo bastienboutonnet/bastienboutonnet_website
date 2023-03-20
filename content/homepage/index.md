@@ -12,9 +12,9 @@ When I don't write code, I produce music under several aliases one of which is [
 
 ## THE SOCIALS
 
-- Twitter: [@B_superhero](https://twitter.com/B_superhero) Sometimes I tweet interesting stuff
 - GitHub: [@bastienboutonnet](http://github.com/bastienboutonnet) For my personal projects.
 - GitHub: [@bitpicky](http://github.com/bitpicky) For projects I develop and maintain with friends.
+- Twitch: [@DataFrittata](https://www.twitch.tv/datafrittata) Where I stream, coding  --although I'm on a break for now.
 - Medium: [@bastienboutonnet](https://medium.com/@bastienboutonnet) Another place where I blog, usually reposts from here.
 - LinkedIn: [@bastienboutonnet](https://www.linkedin.com/in/bastienboutonnet/) Where I wear my online suit.
 - Resident Advisor: [@accuraat](https://ra.co/dj/accuraat) Where I wear my DJ hat.
