@@ -55,5 +55,5 @@ weight = 3
 
 [[menu.main]]
 name = "Sourdough Calculator"
-url = "https://bastienboutonnet-sourdough-calculator.streamlit.app"
+url = "http://bread.bastienboutonnet.nl"
 weight = 4
